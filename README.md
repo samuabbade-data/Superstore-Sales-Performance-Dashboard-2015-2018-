@@ -1,4 +1,4 @@
-# Superstore-Sales-Performance-Dashboard-2015-2018-
+# Superstore Sales Performance 2015 2018
 Sales perfomance
 ## Questions to answer:
 
